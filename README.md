@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a fullstack software engineer from Poland - 🖱️ Working on multiple frontend and backend project using .NET and React.
+I am a fullstack software engineer from Poland - 🖱️ Working on multiple frontend and backend projects using .NET and React.
 
 ## You can get me here!
 [![N|Solid](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jedrzejewskik/)
